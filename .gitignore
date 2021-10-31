@@ -100,7 +100,6 @@ ENV/
 
 # mypy
 .mypy_cache/
-nodule_patches/
 # Pycharm
 .idea/
 test/
